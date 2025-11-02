@@ -1,6 +1,6 @@
 #include <iostream> 
 #include <omp.h> 
-#include <vector> 
+#include <vector> https://github.com/Ruuhhh/HPCA-PRACTICAL-9/edit/main/PRACTICAL-9.Ccpp
 #include <iomanip> // for setw and setprecision 
  
 using namespace std; 
